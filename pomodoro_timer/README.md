@@ -17,7 +17,7 @@ This Flutter app helps you manage your study time using the Pomodoro technique. 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Giacomo-Marconi/pomodoroTimer
     ```
 2. Install dependencies:
     ```bash
